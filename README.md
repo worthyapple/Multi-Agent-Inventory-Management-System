@@ -37,11 +37,14 @@ multi-agent-inventory-dashboard/
    ```bash
    git clone https://github.com/your-username/multi-agent-inventory-dashboard.git
    cd multi-agent-inventory-dashboard
-Install dependencies:
-pip install -r requirements.txt
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-Run the dashboard:
-streamlit run streamlit_app.py
+3. Run the dashboard:
+   ```bash
+   streamlit run streamlit_app.py
+
 
 # 📊 Features
 Clean and interactive dashboard UI with real-time analytics
@@ -61,4 +64,6 @@ Pricing strategy preview
 # 📌 Technologies Used
 Python 3
 Streamlit
-Pandas / NumPy / scikit-learn
+Pandas
+NumPy
+scikit-learn
