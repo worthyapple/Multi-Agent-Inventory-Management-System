@@ -42,7 +42,7 @@ multi-agent-inventory-dashboard/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/multi-agent-inventory-dashboard.git
+   git clone https://github.com/worthyapple/multi-agent-inventory-dashboard.git
    cd multi-agent-inventory-dashboard
 2. Install dependencies:
    ```bash
