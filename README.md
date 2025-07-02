@@ -12,7 +12,7 @@ This project implements a multi-agent inventory management system using Python a
 ---
 
 ## 🌐 Live Demo
-[Click here to open the Streamlit dashboard]([https://your-app-name.streamlit.app/](https://multi-agent-ai-inventory-management-system.streamlit.app/))  
+[Click here to open the Streamlit dashboard](https://your-app-name.streamlit.app/](https://multi-agent-ai-inventory-management-system.streamlit.app/)  
 *(Deploy via Streamlit Cloud)*
 
 ---
