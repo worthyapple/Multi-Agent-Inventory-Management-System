@@ -20,12 +20,19 @@ This project implements a multi-agent inventory management system using Python a
 ## 📁 Folder Structure
 
 multi-agent-inventory-dashboard/
+
 ├── agents.py
+
 ├── streamlit_app.py
+
 ├── requirements.txt
+
 └── data/
+
 ├── demand_forecasting.csv
+
 ├── inventory_monitoring.csv
+
 └── pricing_optimization.csv
 
 
@@ -62,8 +69,12 @@ Customer behavior simulation (randomized purchases)
 Pricing strategy preview
 
 # 📌 Technologies Used
-Python 3/
-Streamlit/
-Pandas/
-NumPy/
+Python 3
+
+Streamlit
+
+Pandas
+
+NumPy
+
 scikit-learn
