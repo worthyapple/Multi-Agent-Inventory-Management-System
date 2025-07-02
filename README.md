@@ -62,8 +62,8 @@ Customer behavior simulation (randomized purchases)
 Pricing strategy preview
 
 # 📌 Technologies Used
-Python 3
-Streamlit
-Pandas
-NumPy
+Python 3/
+Streamlit/
+Pandas/
+NumPy/
 scikit-learn
